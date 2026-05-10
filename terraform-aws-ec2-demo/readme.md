@@ -166,7 +166,6 @@ This project helped in understanding:
 
 - Sensitive files are excluded using `.gitignore`
 - AWS credentials are not stored in the repository
-- 
 
 ---
 
