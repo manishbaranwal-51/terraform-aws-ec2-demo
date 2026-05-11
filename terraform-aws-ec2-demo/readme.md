@@ -57,7 +57,7 @@ terraform-aws-ec2-demo/
 ├── terraform.tfvars
 ├── .gitignore
 ├── README.me
-├── screenshot/
+├── Screenshot/
 │   ├── ec2-launched.png
 │   ├── ec2-running.png
 │   ├── main-tf.png
