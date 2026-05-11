@@ -57,7 +57,7 @@ terraform-aws-ec2-demo/
 ├── terraform.tfvars
 ├── .gitignore
 ├── README.md
-└── screenshots/
+└── Sreenshot/
     ├── terraform-init.png
     ├── terraform-apply.png
     ├── ec2-running.png
@@ -156,25 +156,25 @@ resource "aws_instance" "manish_ec2" {
 
 ## 🔹 EC2 Launched Successfully Through Terraform
 
-![EC2 Launched](screenshots/ec2-launched.png)
+![EC2 Launched](Sreenshot/ec2-launched.png)
 
 ---
 
 ## 🔹 EC2 Running Successfully
 
-![EC2 Running](screenshots/ec2-running.png)
+![EC2 Running](Sreenshot/ec2-running.png)
 
 ---
 
 ## 🔹 Terraform Main Configuration File
 
-![Main TF](screenshots/main-tf.png)
+![Main TF](Sreenshot/main-tf.png)
 
 ---
 
 ## 🔹 Terraform Validation Successful
 
-![Terraform Validate](screenshots/terraform-validated.png)
+![Terraform Validate](Sreenshot/terraform-validated.png)
 
 ---
 
