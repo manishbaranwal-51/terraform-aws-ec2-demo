@@ -56,12 +56,12 @@ terraform-aws-ec2-demo/
 ├── outputs.tf
 ├── terraform.tfvars
 ├── .gitignore
-├── README.md
-└── Sreenshot/
-    ├── terraform-init.png
-    ├── terraform-apply.png
-    ├── ec2-running.png
-    └── terraform-destroy.png
+├── README.me
+├── screenshot/
+│   ├── ec2-launched.png
+│   ├── ec2-running.png
+│   ├── main-tf.png
+│   └── terraform-validate.png
 ```
 
 ---
