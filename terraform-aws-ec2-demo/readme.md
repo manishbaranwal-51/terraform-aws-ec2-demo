@@ -156,7 +156,7 @@ resource "aws_instance" "manish_ec2" {
 
 ## 🔹 EC2 Launched Successfully Through Terraform
 
-![EC2 Launched](terraform-aws-ec2-demo/Screenshot/ec2-launched.png)
+![EC2 Launched](Screenshot/ec2-launched.png)
 
 ---
 
