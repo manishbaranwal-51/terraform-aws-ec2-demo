@@ -162,7 +162,7 @@ resource "aws_instance" "manish_ec2" {
 
 ## 🔹 EC2 Running Successfully
 
-![EC2 Running](Sreenshot/ec2-running.png)
+![EC2 Running](Screenshot/ec2-running.png)
 
 ---
 
