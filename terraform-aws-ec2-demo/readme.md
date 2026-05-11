@@ -138,9 +138,10 @@ provider "aws" {
 resource "aws_instance" "manish_ec2" {
   ami           = "ami-07a00cf47dbbc844c"
   instance_type = "t3.micro"
-
+  key_name = var.key_name
+  vpc_security_group_ids = [var.ecurity_group_id]
   tags = {
-    Name = "Terraform-Demo-EC2"
+    Name = "TerraformDemo-EC2"
   }
 }
 ```
