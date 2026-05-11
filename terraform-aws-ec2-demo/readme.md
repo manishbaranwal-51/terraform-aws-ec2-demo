@@ -150,8 +150,34 @@ resource "aws_instance" "manish_ec2" {
   }
 }
 ```
+---
+
+# 📸 Project Screenshots
+
+## 🔹 EC2 Launched Successfully Through Terraform
+
+![EC2 Launched](screenshots/ec2-launched.png)
 
 ---
+
+## 🔹 EC2 Running Successfully
+
+![EC2 Running](screenshots/ec2-running.png)
+
+---
+
+## 🔹 Terraform Main Configuration File
+
+![Main TF](screenshots/main-tf.png)
+
+---
+
+## 🔹 Terraform Validation Successful
+
+![Terraform Validate](screenshots/terraform-validated.png)
+
+---
+
 
 ## Learning Outcomes
 
