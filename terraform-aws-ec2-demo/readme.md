@@ -168,13 +168,13 @@ resource "aws_instance" "manish_ec2" {
 
 ## 🔹 Terraform Main Configuration File
 
-![Main TF](Sreenshot/main-tf.png)
+![Main TF](Screenshot/main-tf.png)
 
 ---
 
 ## 🔹 Terraform Validation Successful
 
-![Terraform Validate](Sreenshot/terraform-validated.png)
+![Terraform Validate](Screenshot/terraform-validated.png)
 
 ---
 
